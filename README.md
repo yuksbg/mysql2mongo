@@ -1,2 +1,3 @@
 # mysql2mongo
-Export mysql tables to mongo database
+
+Documentation can be found at http://yuksbg.github.io/mysql2mongo/
