@@ -1,8 +1,9 @@
 # MySql2Mongo
 
-Quick export from MySQL database to MongoDB using python.
+### Quick export from MySQL database to MongoDB using python.
 
 
+```
 main.py -h
 Usage: main.py [options]
 
@@ -19,6 +20,7 @@ Options:
   -m MONGO, --mongo=MONGO
                         MongoDB connection string
   --mongodb=MONGODB     MongoDB databse for exported data
+ ```
   
 
 Documentation can be found at http://yuksbg.github.io/mysql2mongo/
